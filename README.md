@@ -1,2 +1,1 @@
-# ServiceLocator
-Service Locator Pattern
+# Service Locator Pattern
